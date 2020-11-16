@@ -1,0 +1,29 @@
+{
+  "name": "gorilla-news2",
+  "version": "1.0.0",
+  "description": "My funkadelic Nuxt.js project",
+  "author": "kbrenes",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "@nuxtjs/proxy": "^2.0.1",
+    "cross-env": "^5.2.0",
+    "md5": "^2.3.0",
+    "nuxt": "^2.0.0",
+    "vue-material": "^1.0.0-beta-15"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "node-sass": "^5.0.0",
+    "nodemon": "^1.11.0",
+    "prettier": "1.14.3",
+    "sass-loader": "^10.0.5"
+  }
+}
