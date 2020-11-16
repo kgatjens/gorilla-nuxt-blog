@@ -10,27 +10,19 @@
               <md-field>
             <label for="email">Email</label>
             <md-input type="email"  name="email" id="email" autocomplete="email" v-model="form.email"  />
-
-            <!-- <md-input type="email" :disabled="loading" name="email" id="email" autocomplete="email" v-model="form.email"  /> -->
-
           </md-field>
 
           <div class="md-layout-item md-small-size-100">
                   <md-field>
                 <label for="password">Password</label>
-                <!-- <md-input type="password" :disabled="loading" name="password" id="password" autocomplete="password" v-model="form.password"  /> -->
-
                 <md-input type="password"  name="password" id="password" autocomplete="password" v-model="form.password"  />
 
               </md-field>
             </div>
           
 
-        </md-card-content>
-        <!-- <md-progress-bar md-mode="indeterminate" v-if="sending" /> -->
-        
+        </md-card-content>        
         <md-card-actions>
-          <!-- <md-button  type="submit" class="md-primary" :disabled="loading">Register user</md-button> -->
           <md-button  type="submit" class="md-primary" >Register user</md-button>
         </md-card-actions>
 

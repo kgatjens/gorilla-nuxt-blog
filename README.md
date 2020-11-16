@@ -1,6 +1,9 @@
-# gorilla-news2
+# Gorilla Logic - Blog post Nuxt.js
 
 > Gorilla Logic - Nuxt.js - Vue.js blog post and user register with Firebase demo app
+
+![alt text](https://github.com/kgatjens/gorilla-nuxt-blog/tree/master/assets/gl.png?raw=true)
+
 
 ## Build Setup
 
