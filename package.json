@@ -1,7 +1,7 @@
 {
-  "name": "gorilla-news2",
+  "name": "gorilla-news",
   "version": "1.0.0",
-  "description": "My funkadelic Nuxt.js project",
+  "description": "Basic example of using Nuxt.js to consume and blog post API and register users in Firebase",
   "author": "kbrenes",
   "private": true,
   "scripts": {
