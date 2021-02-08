@@ -2,6 +2,7 @@ const pkg = require('./package')
 
 module.exports = {
   mode: 'spa',
+  target: 'static',
 
   /*
   ** Headers of the page
