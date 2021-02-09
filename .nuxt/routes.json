@@ -1,0 +1,16 @@
+[
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/kennethb/Sites/localhost/vue/gorilla-news/gorilla-news3/gorilla-nuxt-blog/pages/register/index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_4344024e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/kennethb/Sites/localhost/vue/gorilla-news/gorilla-news3/gorilla-nuxt-blog/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c06b27cc"
+  }
+]
